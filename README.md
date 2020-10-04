@@ -18,9 +18,7 @@ IDEA:
 	*Speech recognition feature to see the report of the cluster.
 	*How to tackle the situtation if a data node fails?
 
-INSIGHT:
 
-	The idea is inspired by the tech giants who use extreme amount of data on daily basis and use it efficiently to generate profits, by overcomming the VOLUME and VELOCITY problem of Bigdata. 
-	This personalised storage cluster helps to share information within clients and team members with minimal requirement and efforts.
- 	It not only saves a lot of time, but also enhances the speed of the operation.
+![](mages/summary_1.jpeg)
 
+![](images/summary_2.jpeg)
